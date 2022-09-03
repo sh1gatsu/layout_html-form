@@ -1,9 +1,9 @@
 /* styles go here */
-.form-field {
+.form-field:not(:last-child) {
   display: block;
-  padding: 5px 0;
+  margin-bottom: 10px;
 }
 
 .fieldset {
-  margin: 20px 0;
+  margin-bottom: 20px;
 }
